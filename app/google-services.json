@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "298098771696",
+    "firebase_url": "https://fir-craslytics-ef379.firebaseio.com",
+    "project_id": "fir-craslytics-ef379",
+    "storage_bucket": "fir-craslytics-ef379.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298098771696:android:59859ffa8a74543c176435",
+        "android_client_info": {
+          "package_name": "com.example.placesearch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "298098771696-loc3vffb42ivk4hadoflf4jnhfsil5qv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.placesearch",
+            "certificate_hash": "3e67be26d0a3bf43319b3a9e8696b78a0dc4e216"
+          }
+        },
+        {
+          "client_id": "298098771696-dcqgq1pban2j6p9d9fodajmt05cbm6tj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9gnG2zZ0jGYXudhcipiu7UD3sZnobQsc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "298098771696-dcqgq1pban2j6p9d9fodajmt05cbm6tj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
